@@ -1,1 +1,0 @@
-module github.com/xuzhang3/azure-devops-go-api/azuredevops/v3
